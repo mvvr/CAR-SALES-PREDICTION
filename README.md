@@ -1,7 +1,5 @@
 # CAR-SALES-PREDICTION
-### Regression Task
- This is my practical project 1 with the guidence Udemy Course. [Machine Learning Prectical Workout](https://colonline.udemy.com/course/deep-learning-machine-learning-practical/learn)
-  Experiencing Machine Learning, Deep Learning, Artificial Neural Networks
+
   
 ## Problem Statement
   I am working as a car salesman and I would like to develop a model to predict the total dollar amount that customers are willing to pay given the following attributes:
